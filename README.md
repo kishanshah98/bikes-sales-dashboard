@@ -14,6 +14,6 @@ To prepare the data, I applied data preprocessing techniques such as removing du
 
 ## Pivot Tables
 
-![Data Screenshot](images/image3.png)
-![Data Screenshot](images/image4.png)
-![Data Screenshot](images/image5.png)
+<img src="images/image3.png" alt="Pivot Table 1" width="400">
+<img src="images/image4.png" alt="Pivot Table 2" width="400">
+<img src="images/image5.png" alt="Pivot Table 3" width="400">
