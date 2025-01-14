@@ -35,9 +35,9 @@ Below is a snapshot of the processed dataset:
 
 Pivot tables were created to summarize and analyze the bike sales data across various dimensions. These tables enabled dynamic filtering and grouping of data for a deeper understanding of:
 
-- Sales distribution by marital status.
+- Average income.
 - Gender-based buying patterns.
-- Impact of commute distance, education, and income on bike sales.
+- Impact of commute distance and age on bike sales.
 
 Snapshots of the pivot tables:
 
@@ -54,7 +54,7 @@ A comprehensive dashboard was designed by visualizing key insights from the pivo
 - **Average Income Per Purchase**: Visualized income variations by gender and marital status.
 - **Customer Age Brackets**: Highlighted age-based purchasing trends.
 - **Commute Distance Trends**: Showed correlations between commute distance and bike purchases.
-- **Interactive Filters**: Filters for marital status, region, and education allow users to drill down into specific aspects of the data.
+- **Slicer Filters**: Filters for marital status, region, and education allow users to drill down into specific aspects of the data.
 
 The dashboard provides a user-friendly and visually appealing way to explore the data:
 
